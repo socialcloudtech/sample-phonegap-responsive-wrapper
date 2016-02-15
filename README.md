@@ -1,0 +1,1 @@
+# sample-phonegap-responsive-wrapper
